@@ -1,2 +1,2 @@
-# music_project_workflow_cookiecutter
+# Music Project Workflow Cookiecutter
  Cookiecutter template for music project workflow
